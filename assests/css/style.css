@@ -224,10 +224,11 @@ footer {
 
 .social-networks {
     text-align: center;
+    list-style-type: none;
 }
 
 .social-networks > li {
-   display: inline;
+    display: inline;
 }
 
 .social-networks i {
